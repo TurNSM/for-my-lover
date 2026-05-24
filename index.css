@@ -1,0 +1,12 @@
+.result {
+    border: 1px solid gray;
+    width: 250px;
+    height: 35px;
+}
+.btnRes { 
+    width: 100px;
+    margin-top: 5px;
+}
+.btn{
+    margin-top: 15px;
+}
